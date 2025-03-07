@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://user_dataproduct_dev:Pf9BxxmgANzyuX4e@fp-dqu-digital-mongo.aohi9.mongodb.net/?retryWrites=true&w=majority&appName=FP-DQU-DIGITAL-MONGO
+      database: FapeConnect
